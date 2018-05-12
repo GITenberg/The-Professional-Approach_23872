@@ -1,0 +1,44 @@
+_repo: The-Professional-Approach_23872
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Harness, Charles L.
+    alias: Harness, Charles Leonard
+    birthdate: 1915
+    deathdate: 2005
+    gutenberg_agent_id: '26099'
+    url: http://www.gutenberg.org/2009/agents/26099
+  - agent_name: Thomas, Theodore Lockhard
+    gutenberg_agent_id: '26100'
+    url: http://www.gutenberg.org/2009/agents/26100
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Inventions -- Fiction'
+title: The Professional Approach
+url: http://www.gutenberg.org/ebooks/23872
